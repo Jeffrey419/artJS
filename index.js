@@ -1,4 +1,4 @@
-class canv() {
+class canv {
   constructor (width, height, color='white') {
     this.width = width;
     this.height = height;
