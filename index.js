@@ -1,5 +1,5 @@
 class canv() {
-  constructor __init__(width, height, color='white') {
+  constructor (width, height, color='white') {
     this.width = width;
     this.height = height;
     this.color = color
